@@ -1,18 +1,12 @@
-﻿//------------------------------------------------------------------------------
-// <copyright file="CloseTabsToRightCommandPackage.cs" company="Company">
-//     Copyright (c) Company.  All rights reserved.
-// </copyright>
-//------------------------------------------------------------------------------
-
-using System;
+﻿using System;
 using System.Diagnostics.CodeAnalysis;
 using System.Runtime.InteropServices;
 using Microsoft.VisualStudio.Shell;
-using CloseTabsToRight.Commands;
+using CloseTabsToLeftAndRight.Commands;
 using Microsoft.VisualStudio.Shell.Interop;
 using System.Threading;
 
-namespace CloseTabsToRight
+namespace CloseTabsToLeftAndRight
 {
     /// <summary>
     /// This is the class that implements the package exposed by this assembly.

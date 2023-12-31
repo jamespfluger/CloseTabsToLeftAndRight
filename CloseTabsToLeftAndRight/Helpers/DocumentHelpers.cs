@@ -2,7 +2,7 @@
 using Microsoft.VisualStudio.Platform.WindowManagement;
 using Microsoft.VisualStudio.PlatformUI.Shell;
 
-namespace CloseTabsToRight.Helpers
+namespace CloseTabsToLeftAndRight.Helpers
 {
     public static class DocumentHelpers
     {

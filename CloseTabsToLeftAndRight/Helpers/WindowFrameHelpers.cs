@@ -8,7 +8,7 @@ using Microsoft.VisualStudio.Platform.WindowManagement;
 using Microsoft.VisualStudio.PlatformUI.Shell;
 using Microsoft.VisualStudio.Shell.Interop;
 
-namespace CloseTabsToRight.Helpers
+namespace CloseTabsToLeftAndRight.Helpers
 {
     public static class WindowFrameHelpers
     {
