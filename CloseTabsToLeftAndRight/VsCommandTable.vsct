@@ -28,8 +28,8 @@
 		</Buttons>
 
 		<Bitmaps>
-			<Bitmap guid="guidImages" href="Resources\CloseTabsToRightCommand.png" usedList="bmpPic1, bmpPic2, bmpPicSearch, bmpPicX, bmpPicArrows, bmpPicStrikethrough" />
 			<Bitmap guid="guidImages1" href="Resources\CloseTabsToLeftCommand.png" usedList="bmpPic1, bmpPic2, bmpPicSearch, bmpPicX, bmpPicArrows, bmpPicStrikethrough" />
+			<Bitmap guid="guidImages" href="Resources\CloseTabsToRightCommand.png" usedList="bmpPic1, bmpPic2, bmpPicSearch, bmpPicX, bmpPicArrows, bmpPicStrikethrough" />
 		</Bitmaps>
 	</Commands>
 
@@ -38,8 +38,8 @@
 
 		<GuidSymbol name="guidCommandPackageCmdSet" value="{d240bb4e-16ec-4c43-bdad-3847641f8e30}">
 			<IDSymbol name="MyMenuGroup" value="0x1020" />
-			<IDSymbol name="CloseTabsToRightCommandId" value="0x0101" />
 			<IDSymbol name="CloseTabsToLeftCommandId" value="0x0100"  />
+			<IDSymbol name="CloseTabsToRightCommandId" value="0x0101" />
 		</GuidSymbol>
 
 		<GuidSymbol name="guidImages" value="{61ed8618-158e-4904-910d-dc5d80a539fd}">

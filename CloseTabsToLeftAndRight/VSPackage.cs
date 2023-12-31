@@ -43,9 +43,9 @@ namespace CloseTabsToLeftAndRight
         {
             await ThreadHelper.JoinableTaskFactory.SwitchToMainThreadAsync();
 
+            CloseTabsToLeftCommand.Initialize(this);
             CloseTabsToRightCommand.Initialize(this);
             base.Initialize();
-            CloseTabsToLeftCommand.Initialize(this);
         }
     }
 }

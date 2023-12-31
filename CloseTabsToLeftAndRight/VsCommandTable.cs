@@ -27,8 +27,8 @@ namespace CloseTabsToLeftAndRight
     internal sealed partial class PackageIds
     {
         public const int MyMenuGroup = 0x1020;
-        public const int CloseTabsToRightCommandId = 0x0100;
-        public const int CloseTabsToLeftCommandId = 0x0101;
+        public const int CloseTabsToRightCommandId = 0x0101;
+        public const int CloseTabsToLeftCommandId = 0x0100;
         public const int bmpPic1 = 0x0001;
         public const int bmpPic2 = 0x0002;
         public const int bmpPicSearch = 0x0003;
