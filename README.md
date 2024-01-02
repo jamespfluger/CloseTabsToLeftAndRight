@@ -17,16 +17,11 @@ See the [changelog](CHANGELOG.md) for changes and roadmap.
 - Close all tabs to the left of the current document.
 - Close all tabs to the right of the current document.
 
-### Close tabs to the left of the current document
+### Close tabs to the left or right of the current document
 Right-click on the current document's tab and select *Close Tabs to the Left* to close all tabs to the left.
-
-![Context Menu](art/context-menu-left.png)
-
-### Close tabs to the right of the current document
 Right-click on the current document's tab and select *Close Tabs to the Right* to close all tabs to the right.
 
-![Context Menu](art/context-menu-right.png)
-
+![Context Menu](art/close-tabs-example.gif)
 
 ## Contribute
 Check out the [contribution guidelines](CONTRIBUTING.md) if you want to contribute to this project.
