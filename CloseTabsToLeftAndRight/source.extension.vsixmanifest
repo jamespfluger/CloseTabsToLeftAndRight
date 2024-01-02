@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="17d4b5e5-01a7-4e42-b7a5-ab1fb9e77dda" Version="1.0.0" Language="en-US" Publisher="James Pfluger" />
+        <Identity Id="17d4b5e5-01a7-4e42-b7a5-ab1fb9e77dda" Version="1.0.1" Language="en-US" Publisher="James Pfluger" />
         <DisplayName>Close Tabs to Left and Right</DisplayName>
         <Description xml:space="preserve">Close document tabs to the left or right of the current document.</Description>
         <MoreInfo>https://github.com/jamespfluger/CloseTabsToLeftAndRight</MoreInfo>

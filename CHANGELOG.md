@@ -9,11 +9,14 @@ download from the
 
 # Changelog
 
-These are the changes to each version that has been released
-on the official Visual Studio extension gallery.
+These are the changes to each version that has been released on the official Visual Studio extension gallery.
 
-## 1.0
+## 1.0.1
 
-- [ ] Initial release
-- [ ] Close all document tabs to the left of the current document
-- [ ] Close all document tabs to the right of the current document
+- [X] Updated icons to reflect closing both left AND right
+
+## 1.0.0
+
+- [X] Initial release
+- [X] Close all document tabs to the left of the current document
+- [X] Close all document tabs to the right of the current document
